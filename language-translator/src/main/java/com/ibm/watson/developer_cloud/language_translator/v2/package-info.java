@@ -14,4 +14,3 @@
  * Language Translator v1.
  */
 package com.ibm.watson.developer_cloud.language_translator.v2;
-
